@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.css2{
+    color:rgb(94, 94, 102);
+    background-color:lightpink;
+    font-size:30px;
+    font-family: Leelawadee UI Semilight;
+    font-style:italic;
+    font-weight:600;
+    letter-spacing: 3px;
+  }
+
